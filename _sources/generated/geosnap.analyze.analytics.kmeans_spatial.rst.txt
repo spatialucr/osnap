@@ -1,0 +1,6 @@
+﻿geosnap.analyze.analytics.kmeans\_spatial
+=========================================
+
+.. currentmodule:: geosnap.analyze.analytics
+
+.. autofunction:: kmeans_spatial
